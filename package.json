@@ -1,6 +1,6 @@
 {
-  "name": "dummy-package",
-  "version": "0.0.1",
+  "name": "my-very-own-dummy-package",
+  "version": "0.0.2",
   "description": "dummy",
   "type": "module",
   "main": "index.js",
